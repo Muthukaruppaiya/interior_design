@@ -1,0 +1,21 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "imagePath": "site_empty_L_01.jpg",
+  "imageData": null,
+  "imageWidth": 1024,
+  "imageHeight": 682,
+  "shapes": [
+    { "label": "ceiling", "shape_type": "polygon", "points": [[205, 0], [822, 0], [716, 75], [244, 72]] },
+    { "label": "wall", "shape_type": "polygon", "points": [[244, 72], [716, 75], [714, 347], [225, 348]] },
+    { "label": "wall", "shape_type": "polygon", "points": [[80, 0], [205, 0], [244, 72], [225, 348], [222, 490], [118, 625], [80, 625]] },
+    { "label": "wall", "shape_type": "polygon", "points": [[716, 75], [822, 0], [1024, 0], [1024, 430], [715, 348]] },
+    { "label": "door", "shape_type": "polygon", "points": [[0, 12], [80, 68], [80, 625], [0, 632]] },
+    { "label": "window", "shape_type": "polygon", "points": [[363, 179], [550, 179], [550, 305], [363, 305]] },
+    { "label": "countertop", "shape_type": "polygon", "points": [[225, 347], [715, 347], [1015, 428], [1015, 457], [838, 458], [838, 446], [658, 374], [225, 374]] },
+    { "label": "sink", "shape_type": "polygon", "points": [[302, 348], [378, 348], [376, 357], [306, 357]] },
+    { "label": "under_counter", "shape_type": "polygon", "points": [[225, 375], [652, 375], [652, 488], [225, 490]] },
+    { "label": "under_counter", "shape_type": "polygon", "points": [[672, 382], [838, 460], [838, 666], [806, 666], [672, 492]] },
+    { "label": "floor", "shape_type": "polygon", "points": [[80, 625], [118, 625], [222, 492], [668, 494], [806, 668], [1024, 668], [1024, 682], [0, 682], [0, 632]] }
+  ]
+}

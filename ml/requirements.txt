@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+transformers
+ultralytics
+onnx
+onnxslim
+onnxruntime
+opencv-python-headless
+pillow
+requests
+numpy
